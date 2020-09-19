@@ -25,7 +25,7 @@ _Tech Stack:_
 - Azure
 
 **Project: EY ATTG TransferPricing**\
-Develop new features, fix and mantain an app for EY to track and calculate transfer prices for our client`s control.
+Develop new features, fix and mantain an app for EY internal use to track and calculate transfer prices for their clients.
 
 _Tech stack:_
 
