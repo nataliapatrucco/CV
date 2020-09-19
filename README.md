@@ -9,7 +9,7 @@ Working under SCRUM methodology.
 Responsible and hard working team player with a creative view.
 Looking for the next challenge in the Netherlands.
 
-## Professional Experience
+## 👩🏼‍💻 Professional Experience
 
 ### _Web UI Developer @ Globant_ _(01-2020 - Present)_
 
@@ -34,7 +34,8 @@ _Tech stack:_
 - CSS/Sass
 - SCRUM
 
-## Education
+
+## 👩🏼‍🎓 Education
 
 ### _Plataforma5_
 
@@ -51,7 +52,7 @@ Degree in Business Administration
 **English** (Full Professional)
 **Spanish** (Native)
 
-### About me
+## 📌 About me
 
 I have a degree in Business Administration and have worked in very diverse environments, I have experience as an entrepreneur, in advertising and a few more markets.
 In the beginning of 2019 I decided to take a major turn in my life and started studying programming. I soon began to get more exited to be able to do so many new things and I finally enrolled in a intensive Coding Bootcamp. There I learned the trendiest technologies as well as the team work and the agile methodologies.
