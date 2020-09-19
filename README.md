@@ -49,9 +49,10 @@ Degree in Business Administration
 
 ## Languages
 
-**English** (Full Professional)
+**English** (Full Professional)\
 **Spanish** (Native)
-
+\
+\
 ## 📌 About me
 
 I have a degree in Business Administration and have worked in very diverse environments, I have experience as an entrepreneur, in advertising and a few more markets.
