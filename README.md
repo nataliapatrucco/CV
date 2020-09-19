@@ -2,7 +2,7 @@
 
 ### Frontend Developer
 
-[Email](mailto:patrucconatalia@gmail.com>) / [Github](www.github.com/nataliapatrucco) / [Linkedin](www.linkedin.com/in/nataliapatrucco)
+[Email](mailto:patrucconatalia@gmail.com) / [Github](https://www.github.com/nataliapatrucco) / [Linkedin](https://www.linkedin.com/in/nataliapatrucco)
 
 > _Ph: +54 911 5634 0391_
 >
