@@ -2,16 +2,12 @@
 
 ### Frontend Developer
 
-[Email](mailto:patrucconatalia@gmail.com) - [Github](https://www.github.com/nataliapatrucco) - [Linkedin](https://www.linkedin.com/in/nataliapatrucco)
-
-> _Ph: +54 911 5634 0391_
->
-> _Nationality: Argentina & Italy (Eligible to work in the EU)_
+[Email](mailto:patrucconatalia@gmail.com) / [Github](https://www.github.com/nataliapatrucco) / [Linkedin](https://www.linkedin.com/in/nataliapatrucco)
 
 Javascript frontend developer with experience in React, Angular and CSS/SASS.
 Working under SCRUM methodology.
 Responsible and hard working team player with a creative view.
-Looking for the next challenge in the Nethearlands.
+Looking for the next challenge in the Netherlands.
 
 ## Professional Experience
 
@@ -62,3 +58,7 @@ In the beginning of 2019 I decided to take a major turn in my life and started s
 In January I started working in Globant and so far I have been part of two projects where I keep getting better and learning new things every day.
 I`d like to be part of a collaborative environment where everyone´s opinion is heard.
 I am ready for the next challenge in my career, planning to move to the Nethearlands (no sponsorship needed) and land my dream job.
+
+> Ph: +54 911 5634 0391_
+>
+> Nationality: Italy (Eligible to work in the EU)_
