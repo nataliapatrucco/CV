@@ -2,7 +2,7 @@
 
 ### Frontend Developer
 
-[Email](mailto:patrucconatalia@gmail.com) / [Github](https://www.github.com/nataliapatrucco) / [Linkedin](https://www.linkedin.com/in/nataliapatrucco)
+[Email](mailto:patrucconatalia@gmail.com) - [Github](https://www.github.com/nataliapatrucco) - [Linkedin](https://www.linkedin.com/in/nataliapatrucco)
 
 > _Ph: +54 911 5634 0391_
 >
@@ -23,7 +23,7 @@ Develop and mantain an Azure Devops extension to deploy and create pipelines and
 _Tech Stack:_
 
 - React.js
-- Javascript / TypeScript
+- Javascript - TypeScript
 - CSS/Sass
 - SCRUM Methodology
 - Azure
