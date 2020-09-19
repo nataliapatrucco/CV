@@ -49,7 +49,7 @@ Degree in Business Administration
 
 **English** (Full Professional)\
 **Spanish** (Native)
-\
+
 
 ## 📌 About me
 
