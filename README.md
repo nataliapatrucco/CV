@@ -59,4 +59,4 @@ In January I started working in Globant and so far I have been part of two proje
 I`d like to be part of a collaborative environment where everyone´s opinion is heard.
 I am ready for the next challenge in my career, planning to move to the Nethearlands (no sponsorship needed) and land my dream job.
 
-Nationality: Italy (Eligible to work in the EU)
+Nationality: Italy & Argentina.
