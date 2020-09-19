@@ -51,7 +51,7 @@ Degree in Business Administration
 **English** (Full Professional)
 **Spanish** (Native)
 
-### _**About me**_
+### About me
 
 I have a degree in Business Administration and have worked in very diverse environments, I have experience as an entrepreneur, in advertising and a few more markets.
 In the beginning of 2019 I decided to take a major turn in my life and started studying programming. I soon began to get more exited to be able to do so many new things and I finally enrolled in a intensive Coding Bootcamp. There I learned the trendiest technologies as well as the team work and the agile methodologies.
@@ -59,6 +59,4 @@ In January I started working in Globant and so far I have been part of two proje
 I`d like to be part of a collaborative environment where everyone´s opinion is heard.
 I am ready for the next challenge in my career, planning to move to the Nethearlands (no sponsorship needed) and land my dream job.
 
-> Ph: +54 911 5634 0391_
->
-> Nationality: Italy (Eligible to work in the EU)_
+Nationality: Italy (Eligible to work in the EU)
