@@ -13,7 +13,7 @@ Looking for the next challenge in the Netherlands.
 
 ### _Web UI Developer @ Globant_ _(01-2020 - Present)_
 
-**Project: EY CodeHub**
+**Project: EY CodeHub**\
 Develop and mantain an Azure Devops extension to deploy and create pipelines and a webapp to automate devops tasks using Github.
 
 _Tech Stack:_
@@ -24,7 +24,7 @@ _Tech Stack:_
 - SCRUM Methodology
 - Azure
 
-**Project: EY ATTG TransferPricing**
+**Project: EY ATTG TransferPricing**\
 Develop new features, fix and mantain an app for EY to track and calculate transfer prices for our client`s control.
 
 _Tech stack:_
