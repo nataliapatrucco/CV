@@ -37,22 +37,20 @@ _Tech stack:_
 
 ## 👩🏼‍🎓 Education
 
-### _Plataforma5_
+### _Plataforma5 Coding Bootcamp (09.2019 – 12.2019)_
 
-Full Stack Software Developer - Coding Bootcamp
-09.2019 – 12.2019
+Full Stack Software Developer
 
-### _Universidad de Buenos Aires_
+### _Universidad de Buenos Aires (03.2003 – 09.2009)_
 
 Degree in Business Administration
-03.2003 – 09.2009
 
 ## Languages
 
 **English** (Full Professional)\
 **Spanish** (Native)
 \
-\
+
 ## 📌 About me
 
 I have a degree in Business Administration and have worked in very diverse environments, I have experience as an entrepreneur, in advertising and a few more markets.
