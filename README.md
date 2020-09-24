@@ -55,11 +55,11 @@ Degree in Business Administration
 
 I have a degree in Business Administration and I have experience as an entrepreneur, in advertising and a few more markets.
 
-At the beginning of 2019, I decided to take a major turn in my life and started studying programming. I soon began to get more excited to be able to do so many new things and I finally enrolled in an intensive Coding Bootcamp where I learned the trendiest technologies as well as the teamwork and the agile methodologies.
+At the beginning of 2019, I decided to take a major turn in my life and started studying programming. I soon began to get more excited being able to do so many new things and I finally enrolled in an intensive Coding Bootcamp where I learned about the trendiest technologies as well as the teamwork and the agile methodologies.
 
-In January I started working in Globant and so far I have been part of two projects where I keep getting better and learning new things every day.
+In January I started working at Globant and so far I have been part of two projects where I keep getting better and learning new things every day.
 
-I`d like to be part of a collaborative environment where everyone's opinion is heard.
+I`d like to work in a collaborative environment where everyone’s opinion is heard.
 
 I am ready for the next challenge in my career, planning to move to the Netherlands (no sponsorship needed) and land my dream job.
 
