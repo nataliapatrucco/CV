@@ -61,6 +61,6 @@ In January I started working at Globant and so far I have been part of two pro
 
 I`d like to work in a collaborative environment where everyone’s opinion is heard.
 
-I am ready for the next challenge in my career, planning to move to the Netherlands (no sponsorship needed) and land my dream job.
+I am ready for the next challenge in my career, planning to move to Europe (no sponsorship needed) and land my dream job.
 
 Nationality: Italy & Argentina.
