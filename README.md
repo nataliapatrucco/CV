@@ -55,12 +55,26 @@ Degree in Business Administration
 
 I have a degree in Business Administration and I have experience as an entrepreneur, in advertising and a few more markets.
 
-At the beginning of 2019, I decided to take a major turn in my life and started studying programming. I soon began to get more excited being able to do so many new things and I finally enrolled in an intensive Coding Bootcamp where I learned about the trendiest technologies as well as the teamwork and the agile methodologies.
+At the beginning of 2019, I decided to take a major turn in my life and started studying programming. I enrolled in an intensive Coding Bootcamp where I learned about the latest technologies as well as the teamwork and the agile methodologies.
 
-In January I started working at Globant and so far I have been part of two projects where I keep getting better and learning new things every day.
+In January I started working at Globant and so far I have been part of two projects where I keep learning new things and improving my skills every day.
 
-I`d like to work in a collaborative environment where everyone’s opinion is heard.
+I have experience working with the following tech stack / tools:
 
-I am ready for the next challenge in my career, planning to move to Europe (no sponsorship needed) and land my dream job.
+React.js
+Javascript / TypeScript
+CSS/Sass
+Atomic Design
+Microsoft Azure
+Git
+Visual Studio
+Styled Components
+SPA
+Webpack
+Agile Methodologies - SCRUM
+
+I would like to work in a collaborative environment where I can contribute with the team and keep adding new skills.
+
+I am moving to Europe soon and I am ready for the next challenge in my career.
 
 Nationality: Italy & Argentina.
