@@ -34,7 +34,6 @@ _Tech stack:_
 - CSS/Sass
 - SCRUM
 
-
 ## 👩🏼‍🎓 Education
 
 ### _Plataforma5 Coding Bootcamp (09.2019 – 12.2019)_
@@ -49,7 +48,6 @@ Degree in Business Administration
 
 **English** (Full Professional)\
 **Spanish** (Native)
-
 
 ## 📌 About me
 
@@ -73,7 +71,7 @@ SPA
 Webpack
 Agile Methodologies - SCRUM
 
-I would like to work in a collaborative environment where I can contribute with the team and keep adding new skills.
+I would like to work in a collaborative environment where I can contribute to the team and keep adding new skills.
 
 I am moving to Europe soon and I am ready for the next challenge in my career.
 
