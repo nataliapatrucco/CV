@@ -7,7 +7,7 @@
 Javascript frontend developer with experience in React, Angular and CSS/SASS.
 Working under SCRUM methodology.
 Responsible and hard working team player with a creative view.
-Looking for the next challenge in the Netherlands.
+Looking for the next challenge.
 
 ## 👩🏼‍💻 Professional Experience
 
