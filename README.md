@@ -60,18 +60,18 @@ In January I started working at Globant and so far I have been part of two proje
 
 I have experience working with the following tech stack / tools:
 
-React.js
-Javascript / TypeScript
-CSS/Sass
-Atomic Design
-Socket.io
-Microsoft Azure
-Git
-Visual Studio
-Styled Components
-SPA
-Webpack
-Agile Methodologies - SCRUM
+- React.js
+- Javascript / TypeScript
+- CSS/Sass
+- Atomic Design
+- Socket.io
+- Microsoft Azure
+- Git
+- Visual Studio
+- Styled Components
+- SPA
+- Webpack
+- Agile Methodologies - SCRUM
 
 I would like to work in a collaborative environment where I can contribute to the team and keep adding new skills.
 
