@@ -21,6 +21,7 @@ _Tech Stack:_
 - React.js
 - Javascript - TypeScript
 - CSS/Sass
+- Socket.io
 - SCRUM Methodology
 - Azure
 
@@ -53,7 +54,7 @@ Degree in Business Administration
 
 I have a degree in Business Administration and I have experience as an entrepreneur, in advertising and a few more markets.
 
-At the beginning of 2019, I decided to take a major turn in my life and started studying programming. I enrolled in an intensive Coding Bootcamp where I learned about the latest technologies as well as the teamwork and the agile methodologies.
+At the beginning of 2019, I decided to take a major turn in my life and started studying programming. I enrolled in an intensive Coding Bootcamp where I learned about the latest technologies as well as teamwork and the agile methodologies.
 
 In January I started working at Globant and so far I have been part of two projects where I keep learning new things and improving my skills every day.
 
@@ -63,6 +64,7 @@ React.js
 Javascript / TypeScript
 CSS/Sass
 Atomic Design
+Socket.io
 Microsoft Azure
 Git
 Visual Studio
@@ -72,7 +74,5 @@ Webpack
 Agile Methodologies - SCRUM
 
 I would like to work in a collaborative environment where I can contribute to the team and keep adding new skills.
-
-I am moving to Europe soon and I am ready for the next challenge in my career.
 
 Nationality: Italy & Argentina.
