@@ -56,7 +56,7 @@ I have a degree in Business Administration and I have experience as an entrepren
 
 At the beginning of 2019, I decided to take a major turn in my life and started studying programming. I enrolled in an intensive Coding Bootcamp where I learned about the latest technologies as well as teamwork and the agile methodologies.
 
-In January I started working at Globant and so far I have been part of two projects where I keep learning new things and improving my skills every day.
+In January 2020 I started working at Globant as Frontend Developer and so far I have been part of two projects where I keep learning new things and improving my skills every day.
 
 I have experience working with the following tech stack / tools:
 
